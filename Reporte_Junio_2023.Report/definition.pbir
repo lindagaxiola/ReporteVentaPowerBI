@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Reporte_Junio_2023.Dataset"
+    },
+    "byConnection": null
+  }
+}

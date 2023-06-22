@@ -1,0 +1,152 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 681.42857142857144,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 57.142857142857153,
+            "y": 788.51428571428585
+          },
+          "nodeIndex": "Calendario",
+          "nodeLineageTag": "60528632-6069-4f2f-8b82-e6bd0ced0923",
+          "size": {
+            "height": 544.28571428571422,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 352.18571428571431,
+            "y": 857.91428571428594
+          },
+          "nodeIndex": "Cliente",
+          "nodeLineageTag": "604acaf6-4555-4523-8565-a087f6d23c3d",
+          "size": {
+            "height": 447.14285714285722,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 911.14285714285711,
+            "y": 5.114285714285657
+          },
+          "nodeIndex": "Producto",
+          "nodeLineageTag": "5d64397c-547a-4a2c-82f6-f592558de40c",
+          "size": {
+            "height": 654.28571428571422,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 1388.7285714285713,
+            "y": 521.37142857142862
+          },
+          "nodeIndex": "ProductoCategoría",
+          "nodeLineageTag": "5e2ab962-8313-4797-8cbd-1620bb5fb03f",
+          "size": {
+            "height": 367.14285714285711,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 1413.1571428571428,
+            "y": 30.971428571428532
+          },
+          "nodeIndex": "ProductoSubcategoría",
+          "nodeLineageTag": "bedd1f58-fd52-47b7-a936-ed4a749159f4",
+          "size": {
+            "height": 314,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 922.87142857142851,
+            "y": 760.51428571428573
+          },
+          "nodeIndex": "Territorio",
+          "nodeLineageTag": "1ebbc2b8-7278-47d9-a948-9e3f67cbe088",
+          "size": {
+            "height": 206,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 417,
+            "y": 0
+          },
+          "nodeIndex": "Ventas",
+          "nodeLineageTag": "ed7093f3-5770-49de-ba20-eb96db784231",
+          "size": {
+            "height": 604.28571428571433,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 95.7142857142857
+          },
+          "nodeIndex": "Devoluciones",
+          "nodeLineageTag": "5a99c2b7-bdaf-4f19-97e0-8a384af4e0f0",
+          "size": {
+            "height": 510,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1764.2,
+            "y": 0
+          },
+          "nodeIndex": "DAX",
+          "nodeLineageTag": "48c67b7c-8569-4ca2-9826-db0eb2af7ed6",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2139.6,
+            "y": 0
+          },
+          "nodeIndex": "FlujodeCaja",
+          "nodeLineageTag": "6c678f2f-4d85-40f4-a312-09a144ed727c",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas las tablas",
+      "zoomValue": 70,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas las tablas",
+  "defaultDiagram": "Todas las tablas"
+}
